@@ -14,7 +14,6 @@ The Shopping System aims to provide a user-friendly and efficient way for custom
 - Shopping cart and checkout process
 - Order management and tracking system
 - Product management and inventory tracking for administrators
-<<<<<<< HEAD
-- Sales analytics and reporting tools
+
 ![CLASS DIAGRAM](./CLASS.png)
 
