@@ -16,5 +16,5 @@ The Shopping System aims to provide a user-friendly and efficient way for custom
 - Product management and inventory tracking for administrators
 <<<<<<< HEAD
 - Sales analytics and reporting tools
-![CLASS DIAGRAM](./CLASS DIAGRAM.drawio(1).png)
+![CLASS DIAGRAM](./CLASS.png)
 
